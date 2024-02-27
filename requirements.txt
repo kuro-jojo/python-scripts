@@ -1,0 +1,5 @@
+pyperclip # for the clipboard
+PyPDF2
+tabula-py
+jpype1
+openpyxl
